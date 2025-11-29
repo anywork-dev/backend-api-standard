@@ -1,2 +1,2 @@
-# backend-api-standard
+# Standard Backend Template
 Must have tools to start developing backend
